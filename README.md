@@ -1,4 +1,4 @@
-# ASCII Game Hub by ASC11AM0N
+# ASCII Game Hub
 
 A terminal-based game launcher that detects and displays ONLY installed games on your system. Features themed ASCII art and a clean, categorized interface.
 
