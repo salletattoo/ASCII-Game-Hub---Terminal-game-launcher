@@ -23,12 +23,18 @@ A terminal-based game launcher that detects and displays ONLY installed games on
 
 ## Installation
 
+** Quick Install (One-liner)**
+Run this command to download and install directly from GitHub:
+
+```bash
+curl -sSL https://raw.githubusercontent.com/salletattoo/ASCII-Game-Hub---Terminal-game-launcher/main/install-ascii-hub.sh | bash
+
 1. Clone the repository:
 ```bash
 git clone https://github.com/YOUR_USERNAME/ascii-game-hub.git
 cd ascii-game-hub
 ----------------------------------------------------------------------
-Manual Install:
+**Manual Install:**
 # Create the script
 cd ~
 nano ascii-game-hub.py
