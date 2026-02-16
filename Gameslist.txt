@@ -1,0 +1,52 @@
+ADVENTURE / RPG
+angband
+crawl
+gearhead
+moria
+nethack-console
+omega-rpg
+open-adventure
+slashem
+colossal-cave-adventure
+cataclysm-dda-curses
+
+
+ACTION / ARCADE
+asciijump
+ascii-patrol
+curseofwar
+ninvaders
+nsnake
+piu-piu
+bombardier
+robotfindskitten
+moon-buggy
+zivot
+npush
+
+
+BOARD / PUZZLE / STRATEGY
+2048
+bastet
+bsdgames
+cavezofphear
+freesweep
+gnugo
+gnuminishogi
+greed
+netris
+nettoe
+nudoku
+petris
+sudoku
+tetrinet-client
+tint
+tty-solitaire
+vitetris
+empire
+nbsdgames
+chroma-curses
+trader
+##
+ASCII Selector 
+pokete

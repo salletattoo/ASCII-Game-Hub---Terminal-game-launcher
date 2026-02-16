@@ -1,0 +1,52 @@
+# Create the script
+cd ~
+nano ascii-game-hub.py
+# (paste the code above)
+
+# Make executable
+chmod +x ascii-game-hub.py
+chmod +x install-ascii-hub.sh
+
+# Install system-wide
+sudo cp ascii-game-hub.py /usr/local/bin/ascii-game-hub
+
+# Run it!
+ascii-game-hub
+
+Install games from the list (Gameslist.txt)
+
+    Make the script executable:
+
+bash
+
+chmod +x ascii_game_hub.py
+
+    Install some games (optional):
+
+bash
+
+sudo apt update
+sudo apt install nethack moon-buggy nudoku
+
+Usage
+
+Run the launcher:
+bash
+
+./ascii_game_hub.py
+
+Navigate using number keys:
+
+    1 - Story / Roguelike games
+
+    2 - Action / Arcade games
+
+    3 - Boards / Classics games
+
+    0 - Exit
+
+Requirements
+
+    Python 3
+
+    Linux/Unix terminal
